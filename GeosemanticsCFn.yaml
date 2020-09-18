@@ -1,0 +1,86 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Description: Sagemaker Notebooks
+Parameters:
+  BucketName:
+    Description: Name of the bucket you want to use to store data, don't use upper case letters or spaces
+    Type: String
+    Default: chronostratigraphy
+Resources:
+  S3Bucket:
+    Type: AWS::S3::Bucket
+    Properties:
+      BucketName: !Sub ${AWS::AccountId}-${BucketName}
+  SagemakerNotebook:
+    Type: AWS::SageMaker::NotebookInstance
+    Properties: 
+      InstanceType: ml.t2.medium
+      NotebookInstanceName: ChronostratigraphyWithComprehend
+      RoleArn: !GetAtt ExecutionRole.Arn
+      DirectInternetAccess: Enabled
+      DefaultCodeRepository: https://github.com/aws-samples/amazon-comprehend-energy-geoscience-nlp
+  ComprehendTrainingRole:
+    Type: AWS::IAM::Role
+    Properties:
+      RoleName: 'ComprehendTrainingRole'
+      AssumeRolePolicyDocument:
+        Version: "2012-10-17"
+        Statement:
+          - Effect: Allow
+            Principal:
+              Service:
+                - comprehend.amazonaws.com
+            Action: sts:AssumeRole
+      Path: /
+      ManagedPolicyArns:
+        - arn:aws:iam::aws:policy/AmazonS3FullAccess
+        - arn:aws:iam::aws:policy/ComprehendFullAccess
+  ExecutionRole: 
+    Type: "AWS::IAM::Role"
+    Properties: 
+      AssumeRolePolicyDocument: 
+        Version: "2012-10-17"
+        Statement: 
+          - 
+            Effect: "Allow"
+            Principal: 
+              Service: 
+                - "sagemaker.amazonaws.com"
+            Action: 
+              - "sts:AssumeRole"
+      Path: "/"
+      ManagedPolicyArns:
+        - arn:aws:iam::aws:policy/AmazonS3FullAccess
+        - arn:aws:iam::aws:policy/ComprehendFullAccess
+      Policies: 
+        - 
+          PolicyName: "root"
+          PolicyDocument: 
+            Version: "2012-10-17"
+            Statement: 
+              - 
+                Effect: "Allow"
+                Action: "iam:PassRole"
+                Resource: 
+                  Fn::GetAtt:
+                    - ComprehendTrainingRole
+                    - Arn
+        -
+          PolicyName: 's3Access'
+          PolicyDocument:
+            Version: '2012-10-17'
+            Statement:
+              -
+                Effect: 'Allow'
+                Action: 's3:*'
+                Resource:
+                  Fn::GetAtt:
+                    - S3Bucket
+                    - Arn
+Outputs:
+  S3Bucket:
+    Value: !Ref S3Bucket
+  ComprehendTrainingRole:
+    Value:
+      Fn::GetAtt:
+        - ComprehendTrainingRole
+        - Arn

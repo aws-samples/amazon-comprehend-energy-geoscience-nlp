@@ -1,0 +1,555 @@
+SUMMARY The lithostratigraphy of the Carboniferous rocks of the Midland Valley of Scotland has been reviewed.
+"The Inverclyde, Strathclyde, Clackmannan and Coal Measures sedimentary groups can be recognised throughout the region, as can the component formations of the two higher groups."
+Formations in the two lower groups are recognisable only within sub-basins.
+"Names now regarded as redundant are Tyninghame, Balcomie, Lugton Limestone, Dalry Sandstone, Caaf Water Limestone and Monkcastle formations."
+Tyninghame Formation is incorporated within the Ballagan Formation on the basis of a broader definition of the latter.
+"The Balcomie, Lugton Limestone, Dalry Sandstone, Caaf Water Limestone and Monkcastle formations are now regarded as synonymous with the Clyde Sandstone, Lower Limestone, Limestone Coal, Upper Limestone and Passage formations respectively."
+The Kilbirnie Mudstone Formation is reduced to a member within the Limestone Coal Formation.
+The Troon Volcanic and Ayrshire Bauxitic Clay formations are reduced to members within the Passage Formation.
+"Newly introduced lithostratigraphical names are the Bathgate Group and the formations within it, namely the Salsburgh Volcanic, Bathgate Hills Volcanic and Kinghorn Volcanic formations."
+Group status is required for this series of volcanic rocks because they markedly transgress the Strathclyde and Clackmannan sedimentary group boundaries.
+"A rationalisation of the nomenclature applied to the main lithostratigraphical marker horizons in the Lower Limestone Formation has been undertaken, standardising on those of the Glasgow area."
+"The base of the Coal Measures is placed at the base of the Lowstone Marine Band, its local correlative or at a plane of disconformity."
+"The base of the Upper Coal Measures is taken in the Glasgow and Ayrshire areas at the base of the Aegiranum Marine Band, where it is locally known as Skipsey's Marine Band."
+"In Fife and Lothian, however, the Aegiranum Marine Band has been tentatively re-correlated upwards in the succession with the ` Buckhaven Planolites Band'and Montague Bridge Marine Band respectively."
+2 PREFACE The Stratigraphy Committee of the British Geological Survey has undertaken to carry out a review of the stratigraphical classification and nomenclature for all parts of Great Britain for which modern information is available.
+"To this end several Stratigraphical Framework Committees have been established, each with the following terms of reference : i To carry out a complete review of the lithostratigraphical nomenclature of the designated region, identifying problems in classification, correlation and nomenclature."
+ii To propose a stratigraphical framework and lithostratigraphical nomenclature down to formation level for the whole outcrop.
+iii To organise peer review of the scheme.
+iv To present the results in a document suitable for publication.
+v To see that the Lexicon entries are completed for their area of responsibility.
+The Carboniferous rocks of central Scotland have been the subject of a committee under the chairmanship of Mr M A E Browne and are reported on here.
+The purpose of all SFCs is to establish a framework down to formation level that can be used as a central reference by all geologists working in the region.
+The process of erecting a framework requires decisions to betaken about correlations and equivalences leading to a simplified nomenclature.
+Inevitably many names will be rendered obsolete.
+The frameworks are lithostratigraphical and though each is set against a chronostratigraphical reference column the finer points of the chronostratigraphy of the succession are not our prime concern.
+"The report was reviewed for the Geological Society Stratigraphy Commission by Dr I D Somerville and validated by Dr J E A Marshall on behalf of the Geological Society Stratigraphy Commission, who endorse the scheme proposed in this work."
+The lithostratigraphical rules applied are those of the North American Commission on Stratigraphic Nomenclature -LRB- 1983 -RRB-.
+It is expected that the frameworks will be refined and improved with time.
+"Indeed, erecting them effectively poses a challenge to stratigraphers which I hope will betaken up to contribute to a better understanding of British stratigraphy."
+Dr P M Allen Chairman British Geological Survey Stratigraphy Committee Prof P F Rawson Chairman Geological Society Stratigraphy Commission 3 INTRODUCTION The stratigraphy of the Carboniferous of the Midland Valley of Scotland has been studied over a considerable time and various criteria have been used as a basis for sub-division.
+"Formerly, this succession of rocks was divided into six major units, in downward order, the Coal Measures, the Passage Group, the Upper Limestone Group, the Limestone Coal Group, the Lower Limestone Group and the Calciferous Sandstone Measures, each containing rocks or cycles of rocks with generally similar lithological characteristics -LRB- Macgregor and MacGregor, 1948 ; MacGregor, 1960 -RRB-."
+"The boundaries between the main units were defined by marker horizons which are, to a greater or lesser extent, widespread within the Midland Valley of Scotland."
+The Geological Society Special Reports of George et al. -LRB- 1976 -RRB- on the Dinantian and Ramsbottom et al.
+"On the Silesian set out most of the faunal and floral markers that underpin the correlation of the lithostratigraphical units within the Midland Valley of Scotland -LRB- Table 1 -RRB-, as well as constraining the age of the units."
+"Clayton -LRB- 1985, Table 1 -RRB- set out the subsequent alterations to the Dinantian miospore zones which are of most use in the correlation of Scottish pre - Asbian strata."
+"The first changes to this traditional scheme were made by Paterson and Hall -LRB- 1986 -RRB-, who set up a formal lithostratigraphical nomenclature of formation and group names for the late Devonian and early Carboniferous rocks of the western part of the Midland Valley."
+Note : The Laggan Cottage Mudstone Formation of north Arran and the Birgidale Formation of south Bute at the base of the Strathclyde Group are not shown.
+"Nor are the Bathgate Hills, Kinghornand Salsburgh Volcanic formations of the Bathgate Group."
+"In the Lothians the group names were also found to be valid -LRB- Chisholm et al., 1989 -RRB- and further new formations were erected and defined."
+"The traditional group names above the Hurlet Limestone were replaced by formation names in the Airdrie district by Hall -LRB- BGS, 1992 -RRB- and Forsyth et al. -LRB- 1996 -RRB-."
+"These changes were made piecemeal, and it has become apparent that a clarification of the lithostratigraphical nomenclature of the Midland Valley is now required."
+"The Stratigraphical Framework Committee has built on the foundations laid by the classification of the Lower Carboniferous up to the base of the Hurlet Limestone, or its equivalent, erected by Paterson and Hall -LRB- 1986 -RRB-, Browne -LRB- 1986 -RRB- and Chisholm et al. -LRB- 1989 -RRB-."
+"Above this, the presence of widespread limestones, marine beds and coal horizons allows correlations to be made across the Midland Valley on a basis of marker band stratigraphy."
+"Most of the traditional units recognised above the base of the Hurlet Limestone are defined by marine bands, which are considered to be lithological markers defining lithostratigraphical units."
+"In accordance with the protocol established by the North American Commission on Stratigraphic Nomenclature -LRB- 1983 -RRB-, these units are considered to be formations and have been assigned to newly established groups -LRB- Forsyth et al.,1996 -RRB-."
+"Since the definitions of lower and upper boundaries have not been changed, previous descriptions are still valid, and in view of their general familiarity longstanding names have been modified as little as possible."
+"Thus, the name Lower Limestone Formation replaces the term Lower Limestone Group."
+The revised nomenclature and the previous names are both shown in Table 1.
+"Current understanding of the biostratigraphical framework is also summarised in Table 1 ; however, some formations extend over a greater or smaller age range than is shown in theTable."
+"It is recognised, also, that there are problems in relating the biostratigraphy based on miospores to the lithostratigraphical succession -LRB- Neves et al., 1973 -RRB-."
+"Additionally, the mainly volcanic formations of the BathgateGroup, which are contemporaneous with sedimentary formations, are not shown on the Table."
+Note that thickness ranges for individual formations are not given in the descriptive text ; information on thickness is shown graphically in Figures 1 -- 7 mainly based on published 1 : 50 0 map sheet generalised vertical sections.
+"Browneand Monro -LRB- 1989, Figures 15 -- 20 -RRB- presented isopachyte maps for the Carboniferous of the Midland Valley, but only their Figures 16 -- 19 relate specifically to individual formations described in the present report."
+"More detailed descriptions of the strata are given in the BGS memoirs for individual map sheets within the Midland Valley, and in the regional guide -LRB- Cameron and Stephenson, 1985 -RRB-."
+"In their geological conservation review of the Upper Carboniferous -LRB- sensu Lane et al., 1985 -RRB- Cleal and Thomas -LRB- 1996 -RRB- used the MacGregor -LRB- 1960 -RRB- classification for the Scottish successions."
+"Within the Passage Group, the Roslin Sandstone and Ayrshire Bauxitic Clay formations were identified."
+The latter formation is now considered to be a member within the Passage Formation of the Clackmannan Group.
+Their newly named Roslin Sandstone Formation is a redundant term synonymous with the Passage Formation.
+"In the Coal Measures -LRB- Group -RRB-, Cleal and Thomas recognised Productive Coal and Barren Red formations."
+"The names are based on long redundant terminology and are judged to be unacceptable in a Scottish context since : - i most of the Scottish Carboniferous succession, Inverclyde Group excepted, is productive of coal ii much of the character of the so-called Barren Red Measures is diagenetic, not stratigraphical in origin."
+"Also, the strata are not barren of coal."
+"Within rocks now assigned to the Strathclyde Group, Loftus -LRB- 1986 -RRB- set up the Burdiehouse Limestone Formation."
+"The term has not been used on published BGS maps and is not adopted here, though ` Burdiehouse Limestone' remains a valid bed name."
+"Similarly Jameson -LRB- 1987 -RRB- used the term Petershill Formation for a sedimentary unit in the Bathgate Hills Volcanic Formation, of which it could now be regarded as a member."
+"Wilson -LRB- 1974 -RRB-, in a study of the marine faunas of south-east Scotland, set up the Lower and Upper Lothian groups for strata now assigned to the Inverclyde and Strathclyde groups."
+"As groups should not be qualifed by ` Upper'  and ` Lower'  according to protocol, these two terms have not been accepted and in any case Wilson later -LRB- 1989, Figure 2 -RRB- used the Strathclyde and Inverclyde groups instead of these two divisions."
+"In the Appendix to Paterson and Hall -LRB- 1986 -RRB-, the only rock unit not clearly assigned status is the Downie 's Loup Sandstones of the Stirling area."
+The unit is now considered to be a member of the Clyde Sandstone Formation.
+A list of valid lithostratigraphical units for the Carboniferous of the Midland Valley of Scotland is given in Appendix 1.
+A list of obsolete terms -LRB- together with approximate current equivalents -RRB- and those of reduced status are given in Appendix 2.
+Extrusive volcanic rocks of broadly basaltic composition are common in the Carboniferous of the Midland Valley of Scotland.
+They range from thin local developments to widespread volcanic piles of considerable thickness and age range.
+The lavas form a mildly alkaline suite intermediate between the sodic series of the British Tertiary Province and the potassic series of Tristan da Cunha.
+The range isankaramite-basalt-hawaiite-mugearite-benmoreite-trachyte-rhyolite.
+"Traditionally, the basic rocks have been classified petrographically by the nature and size of the phenocrysts into six types, each named after a locality -LRB- MacGregor, 1928 -RRB-."
+"The nomenclature has been modified and brought into line with current petrological usage -LRB- Macdonald, 1975 -RRB- and the equivalent names are given in Table 2."
+"The major occurrences of lavas are in isolated, often fault-bounded blocks, each with its own internal stratigraphy."
+"However, Macdonald -LRB- 1975 -RRB- identified magma associations, a concept which can be used as a basis for distinguishing different formations."
+3.1 Palaeogeography The Carboniferous palaeogeography of the Midland Valley of Scotland -LRB- MVS -RRB- was essentially that of an evolving graben flanked by positive regions.
+"Depocentres within the graben subsided at different rates at different times, and their location and trend also changed through time -LRB- see isopach maps by Browne and Monro, 1989 -RRB-."
+"The graben was initiated during the late Devonian by a phase of rifting that affected all of central and northern Britain -LRB- Leeder, 1988 -RRB-."
+"Rifting continued into the early Carboniferous, but thermal subsidence is thought to have been the dominant process in late Carboniferous times."
+"However, the development of the graben was not simple, because minor phases of compression affected the region, especially in the mid Carboniferous -LRB- e.g. Read, 1988 -RRB-."
+5 The basin fill was composed largely of siliciclastic sediment carried into the graben by rivers.
+"Input was generally along the axis of the graben, but with major contributions coming also from the sides."
+"Axial flow from the south-west was established during the late Devonian and continued into the early Carboniferous Inverclyde Group -LRB- Read and Johnson, 1967 -RRB-."
+"There was then a major reversal of the axial palaeoslope and flow from the north-east became established in the Strathclyde Group -LRB- Greensmith, 1965 -RRB-."
+"Flow from this direction appears to have continued into the Coal Measures -LRB- Kirk, 1983 -RRB-, though accompanied or replaced by lateral input from the north during deposition of the Clackmannan Group -LRB- e.g. Muir, 1963 -RRB-."
+Input from the south was generally minor.
+"The rivers drained eventually to the sea, though this was generally situated at some distance to the south and only periodically spread its influence into the region."
+"Marine faunas are present, but rare, in the Inverclyde Group, and become more common, and more diverse, up through the Strathclyde Group."
+Marine influence reached its peak during deposition of the Clackmannan Group and decreased thereafter.
+"Cyclic variations in global sea level, linked to climatic cyclicity -LRB- Veevers and Powell, 1987 -RRB-, made their maximum impact during the same period, producing cyclothemic -LRB- ` Yoredale ' -RRB- sequences in which marine limestones marking highstands of sea level interbed with the background siliciclastic sediment."
+"The earliest highstand to have inundated the whole graben produced the Hurlet Limestone, the marker band that separates the Strathclyde and Clackmannan groups."
+"The palaeogeography has been illustrated by Cope et al. -LRB- editors, 1992 ; maps S8a, S9, D1 to D4, and C1 to C9 -RRB-."
+"Browne and Monro -LRB- 1989, Figures 5, 6, 8, 9, 12, 13, 16,17, 20, 21 and 23 -RRB- also presented palaeogeographical maps or the Carboniferous of central Scotland."
+The MVS trends east-north-east and was flanked to the northwest by the eroded remains of the Caledonian Mountains north of the Highland Boundary Fault and separated from basins to the south -LRB- Tweed and Solway Firth basins and the Northumberland Trough -RRB- by the Southern Uplands block.
+"However, this was breached by narrow basins trending north-north-west -LRB- Stranraer, Sanquhar -- Thornhill -- Dumfries, Lauderdale and Abbey St Bathans -RRB-."
+"Under the North Sea, the Forth Approaches Basin forms an eastern extension of the MVS."
+"Unlike the Tweed Basin and the Northumberland Trough, the MVS and Forth Approaches Basin are not constrained to the east by the Mid North SeaHigh -LRB- Gatliff et al., 1994, Figure 12 -RRB-, a seaward continuation of the Southern Uplands."
+"The MVS could have been linked to the North Sea Central Graben where a predecessor structural feature allowed the mid - and late - Devonian sea to reach the Orcadian Basin from the southeast -LRB- Marshall et al.,1996 -RRB-."
+"The Ulster Basin may be a southwestward extension of the MVS in Ireland -LRB- Jackson et al., 1995, Figure 25 -RRB-."
+"The end - Devonian landscape of the MVS was probably varied, with the possibility of hilly ground within the graben -LRB- Browne and Monro, 1989, Figure 5 -RRB- representing the remnant high between the Lower Devonian Lanark and Strathmore sedimentary basins, as well as on the northern -LRB- Highlands -RRB- and southern -LRB- Southern Uplands -RRB- margins."
+"The lower ground, with fringing alluvial cones, would have been dominated by extensive alluvial plains and aeolian dune fields."
+"The dunes may perhaps have been marginal to the late Devonian sea situated in the Central Graben area -LRB- Cope et al., 1992, map D4 -RRB-."
+"The main source of extrabasinal sediment provided to the MVS was the eroded Caledonian Mountains to the north, but the Southern Uplands block provided some sediment to the southern part of the graben."
+Lava and volcanic detritus were provided from within the graben from the major Carboniferous eruptive centres which were active at various times and were large enough to act as barriers both to the transport of sediment and to incursions of the sea.
+Intrabasinal sediment was made available by intra - Carboniferous earth movements associated with basin inversion and possible pop-up structures resulting from lateral fault displacement.
+"The climate was hot during Carboniferous time, and changed from semi arid at the beginning to wet equatorial, with a reversion to semi arid conditions by the end of the Carboniferous."
+"The changes reflect northward plate movement, with the MVS about 10 degrees south of the equator initially but on the equator by mid Carboniferous times."
+"The oldest Carboniferous -LRB- Courceyan to Chadian -RRB- rocks -LRB- Inverclyde Group : Kinnesswood, Ballagan and Clyde Sandstone formations -RRB- were laid down whilst the climate was semi-arid and are characterised by the presence of carbonate beds and nodules and the absence of carbonaceous rocks, especially coal."
+"Because of the semi-arid climate, the sandstone-dominated Kinnesswood and Clyde Sandstone formations contain calcareous and dolomitic pedogenic horizons -LRB- cornstones -RRB- formed on stable alluvial plains, whilst the mudstone-dominated Ballagan Formation is characterised by ferroan dolomite beds -LRB- cementstones -RRB- and evaporites -LRB- mainly gypsum preserved -RRB- laid down in alluvial plains and marginal marine flats subject to periodic desiccation and fluctuating salinity."
+The open sea lay to the south of the MVS with the more marine faunas in the ` cementstones' being found in the Solway Firth Basin.
+"Initial access of the seawaters is shown as being from the east -LRB- Cope et al., 1992, maps C2, C3 -RRB-."
+Sandy alluvial fans are a feature of the Ballagan Formation along the southern edge of the MVS.
+"The Strathclyde Group -LRB- Chadian to Brigantian, Table 1 -RRB- is a varied sequence of rocks, both sedimentary and volcanic, but like the succeeding Clackmannan Group and Coal Measures, is characterised by the presence of carbonaceous beds, including coal."
+"In the western half of the MVS the succession is dominated by the Clyde Plateau Volcanic Formation -LRB- Cope et al., 1992, map C4 -RRB- and marine incursions are limited to the overlying Lawmuir Formation -LRB- Brigantian -RRB-."
+"In the east, in Lothian and Fife -LRB- Cope et al., 1992, map C5 ; Browne and Monro, 1989, Figures 8, 9 -RRB- the succession is largely fluviodeltaic and lacustrine, with marine incursions from time to time during the Asbian and the Brigantian."
+A feature of the Strathclyde Group in the east is the presence of oil shales and freshwater limestones as minor but important components.
+"These reflect the development of substantial lakes -LRB- ` Lake Cadell' -RRB- characterised by the accumulation of the abundant algal remains that form a substantial proportion of both lithologies."","
+"The northerly-trending structural feature known as the Bo n ess Line -LRB- see Rippon et al., 1996, Figure 1 -RRB- may have been influential in determining these differences between the west and east MVS."
+"However, the distribution of the West Lothian Oil Shale Formation may partly be due to the control exercised by the volcanic pile of the Kinghorn Formation in south Fife, acting as a barrier to ingress of the sea from the east."
+"From the latest Visean to earliest Namurian -LRB- Cope et al.,1992, maps C6, C7 -RRB- onwards, widespread uniform lithofacies were established throughout the MVS and the main differences between the sub-basins reflect varying rates of subsidence and differential fault block movements, as in Ayrshire."
+The Clackmannan Group -LRB- late Visean to early Westphalian -RRB- is characterised by cyclic sequences with coalsand marine shelf limestones.
+"The Hurlet Limestone at the base of the Group is the first marine incursion to be recognised throughout all the sub-basins of the MVS, although even it is missing locally in Ayrshire -LRB- Browne and Monro, 1989, Figure12 -RRB-."
+The dominance of marine processes in the Scottish Carboniferous was at its greatest during the deposition of the Lower Limestone Formation -LRB- late Brigantian -RRB-.
+"At this timeshelf seas covered the whole of the MVS from time to time -LRB- Browne and Monro, 1989, Figures 12, 16 -RRB- and major deltas periodically prograded southwards."
+"The resulting ` Yoredale' cycles were most marine in Ayrshire, Glasgow and eastLothian, areas close to the Southern Uplands block, which supplied little sediment."","
+"Coal-forming conditions were dominant during Pendleian times when the cyclic fluviodeltaic sequences of the Limestone Coal Formation -LRB- Browne and Monro, 1989, Figure 13 -RRB- were laid down."
+Marine incursions were few during deposition of this formation but beds withLingula and non-marine bivalves are common.
+North Ayrshire and Glasgow showed the most marine influence at this time.
+"During the deposition of the Upper Limestone Formation -LRB- Pendleian to Arnsbergian -RRB-, marine processes again prevailed, with the accumulation of further ` Yoredale' cycles, but marine shelf limestones are generally less well-developed than in the Lower Limestone Formation."
+Major southwardly prograding deltas were again a feature.
+"The overlying Passage Formation -LRB- Arnsbergian to Langsettian -RRB- is characterised by alluvial deposits -LRB- Browne and Monro, 1989, Figure 17 -RRB-, with minerogenic palaeosols rather than coals, except locally -LRB- as in the Westfield Basin in central Fife ; Figure 6 -RRB- where intra - Carboniferous tectonics favoured peat accumulation."
+"Marine incursions across the extensive alluvial plains were short-lived and Cope et al. -LRB- 1992, map C7 -RRB- showed these limited to the east MVS."
+"However, marine strata are known from the Douglas Coalfield basin adjacent to the Southern UplandFault."
+"In Ayrshire, the succession is largely represented by volcanic rocks and their weathering products -LRB- Troon Volcanic and Ayrshire Bauxitic Clay members -RRB-."
+"From early in the Westphalian -LRB- Cope et al., 1992, map C8 -RRB-, coal-forming conditions were again established across the MVS and cyclic fluviodeltaic sequences with non-marine faunas were laid down to form the Lower and Middle Coal Measures."
+"Marine incursions were few during deposition of these formations and in the Upper Coal Measures -LRB- Cope et al., 1992, map C9 -RRB- there was a return to alluvial conditions, with no marine incursions."
+"In this highest unit, coal seams are generally thin and few in number, and lacustrine deposits are also rare."
+The common red colours may be of secondary origin.
+"4 INVERCLYDE GROUP The Inverclyde Group comprises the Kinnesswood, Ballagan, and Clyde Sandstone formations."
+These are characterised by sandstones with pedogenic carbonate -LRB- ` cornstones '-RRB- and by silty mudstones containing thin beds of dolomite and limestone -LRB- ` cementstone'  -RRB-.
+"The base of the group is taken at the base of the Kinnesswood Formation where the dominantly sandstone lithologies of the underlying Stratheden Group -LRB- late Devonian : defined by Paterson and Hall, 1986 -RRB- are succeeded by carbonate-bearing strata."
+The top is defined by the base of the Strathclyde Group.
+Lateral variations are shown inFigure 1.
+The name was introduced by Paterson and Hall -LRB- 1986 -RRB-.
+"The group is Tournaisian in age, ranging from Courceyan to early Chadian."
+"The recent discovery -LRB- Smith, 1996 -RRB- of miospores of Tournaisian age -LRB- LN -- PC biozones -RRB- from a green siltstone near the base of the Kinnesswood Formation in the Gass Water, New Cumnock -LSB- NS 66702158 -RSB- confirms that this formation may straddle the Devonian - Carboniferous boundary, but that most of it is of early Carboniferous age."
+The same author reports that a sample from the Ballagan Formation contains miospores indicative of the PC biozone rather than the younger CM biozone normally recorded from that unit.
+"4.1 Kinnesswood Formation Lithology : The Kinnesswood Formation consists predominantly of purple-red, yellow, white and grey-purple, fine - to coarse-grained sandstones which are mostly crossbedded and arranged in upward-fining units."
+"Fine-grained, planar or poorly bedded sandstones, red mudstones and nodules and thin beds of concretionary carbonate -LRB- cornstone -RRB- also occur."
+The cross-bedded sandstones were deposited in river channels and the fine-grained sandstones and mudstones represent overbank deposits formed on the associated floodplains.
+"The cornstones, which characterise the formation, were developed in soil profiles on the floodplains under the influence of a fluctuating water table in a semiarid climate."
+"The cornstones range from immature, in which the sandstones have a partly carbonate matrix with ill-defined concretions, to mature, in which well-defined nodules -LRB- glaebules -RRB- are elongated in a vertical sense and are overlain by laminar and pisolitic structures."
+"The laminar structures, which develop parallel to the bedding, may be brecciated and the carbonate replaced by chert."
+"Name : The name was introduced by Chisholm and Dean -LRB- 1974 -RRB- and has since been extended throughout the Midland Valley to replace the term ` Cornstone Beds ', a unit at the top of the ` Upper Old Red Sandstone'."
+"Type section : The type area of the Kinnesswood Formation -LRB- Figure 1, column 11 -RRB- is the hillside to the east of the village of Kinnesswood at Kinnesswood Row -LSB- base of unit at NO 18050363, top at NO 1814 362 -RSB-."
+"Intra - Carboniferous erosion has removed the top part of the formation in the type area, but the BGS Glenrothes Borehole -LSB- NO 2562 134 -RSB- -LRB- BGS Reg."
+"No.NO 20 SE/385 -RRB- provides a complete reference section -LRB- Figure1, column 12 -RRB- between 362.4 m and 449.3 m depth."
+"Upper and lower boundaries : The transitional base of the Kinnesswood Formation is taken in the type area between strata with cornstones and the underlying aeolian sandstones without cornstones, the Knox Pulpit Formation -LRB- Stratheden Group -RRB-."
+In most areas the top is conformable beneath the Ballagan Formation but in the type area is erosional beneath strata of the Strathclyde Group -LRB- Pathhead Formation -RRB-.
+"Thickness : The maximum thickness of the formation, about 640 m, is attained in the Edinburgh area -LRB- Figure 1, column 19 -RRB- based on Mitchell and Mykura -LRB- 1962, p. 31 -RRB-."
+"4.2 Ballagan Formation Lithology : The Ballagan Formation is characterised by generally grey mudstones and siltstones, with nodules and beds of ferroan dolomite -LRB- cementstone -RRB-, the beds are generally less than 0.3 m thick."
+"Gypsum, and to a much lesser extent anhydrite, and pseudomorphs after halite occur."
+Desiccation cracks are common and the rocks frequently show evidence of brecciation during diagenesis.
+"Both these features are associated with reddening of the strata.Where present, the restricted fauna is characterised by the bivalve Modiolus latus, but ostracods are more abundant."
+"Thin sandstones are present in many areas, and thick localised sandstones are also now included in the formation."
+"Name : The name Ballagan Formation was first used by Browne -LRB- 1980 -RRB- to replace the traditional term Ballagan Beds -LRB- or Series -RRB-, which referred -LRB- though without formal definition -RRB- to the mudstone - cementstone sequence at Ballagan Glen -LRB- Young 1867a, b -RRB-."
+"The name is now defined to acknowledge the presence of sandstones, which locally may be thick, so that the term encompasses the strata in the Lothians that were earlier -LRB- Chisholm et al., 1989 -RRB- called Tyninghame Formation."
+"Type section : The Ballagan Formation is well exposed in the Ballagan Glen -LSB- NS 5731 8022 -RSB-, but the -LRB- partial -RRB- type section is defined here just south of Perth in the East Dron Borehole -LSB- NO 1360 1572 -RSB- -LRB- BGS Reg."
+Upper and lower boundaries : The base of the formation is taken at the lithological boundary between strata characterised by a mudstone-cementstone association and the underlying cornstone-bearing sandstone of the Kinnesswood Formation.
+The top is drawn at the top of the highest unit of mudstone and cementstone in any particular area.
+The Clyde Sandstone Formation usually overlies the Ballagan Formation -LRB- but see Table 1 for West and East Lothian area -RRB-.
+"Thickness : The maximum thickness of the formation is about 900 m in the West Lothian area -LRB- Figure 1, column 18, intermediate thickness illustrated -RRB- based on Mitchell and Mykura -LRB- 1962, p. 38 -RRB-."
+"4.3 Clyde Sandstone Formation Lithology : The Clyde Sandstone Formation consists predominantly of white, fine - to coarse-grained sandstone, commonly pebbly, with beds of redbrown or grey mudstone."
+"Pedogenic limestone, as nodules or beds, and calcite cemented concretionary sandstones are also present in some areas."
+"In more northerly areas some of the sandstones are conglomeratic, with pebbles of quartz and ` Highland' rock types."
+Elsewhere the clasts are largely of intrabasinal limestone or mudstone.
+These strata were laid down in a wide variety of fluviatile environments ranging from braided stream to floodplain with well developed overbank deposits.
+"Name : The formation name was introduced by Paterson and Hall -LRB- 1986 -RRB- for sandstone-dominated strata, with cornstones, overlying the Ballagan Formation in the west of the 8 Midland Valley."
+"Its use is now extended throughout the Midland Valley, so replacing the term Balcomie Formation -LRB- Browne, 1986 -RRB- in Fife."
+"The ` Upper Sandstone' of the Pentland Hills -LRB- Mitchell and Mykura, 1962, p. 38 -RRB- may also belong to this formation."
+Type section : The partial type sections -LRB- composite stratotype -RRB- of theClyde Sandstone Formation are in the Barnhill Borehole -LSB- NS 4269 7571 -RSB- -LRB- BGS Reg.
+"NS 47 NW/2 -RRB-, just east of Dumbarton, where the top of the formation occurs at 104.9 m and in the Knocknairshill Borehole -LSB- NS 3056 7438 -RSB- -LRB- BGS Reg."
+"NS 37 SW/10 -RRB-, east of Greenock, where the base of the formation occurs at 222.9 m. Upper and lower boundaries : The transitional base of the Clyde Sandstone Formation is taken at the lithological boundary between strata consisting predominantly of white sandstone with pedogenic limestone and the underlying mudstone-cementstone association of the Ballagan Formation."
+The top is overlain variously by sedimentary or volcanic formations of the Strathclyde Group -LRB- Table 1 -RRB-.
+"Thickness : The maximum thickness of the formation is greater than 300 m in the Glasgow area -LRB- Figure 1, columns 4 and 5 -RRB- according to Paterson and Hall -LRB- 1986, p. 11 -RRB-."
+"5 STRATHCLYDE GROUP The name Strathclyde Group was introduced by Paterson and Hall -LRB- 1986 -RRB- in the west of the Midland Valley, where the ascending sequence comprises Clyde Plateau Volcanic Formation, Kirkwood Formation and Lawmuir Formation."
+"The name has since been extended to the east ; in Fife, where the sequence is best known, the group comprises five sedimentary formations, while in the Lothians it includes both volcanic and sedimentary formations -LRB- Table 1 -RRB-."
+"The lithologies within the group consist of interbedded sandstones, siltstones and mudstones with common seatearths, coals and sideritic ironstones."
+Lateral variations are shown in Figure 2.
+The group ranges in age from late Chadian to Brigantian.
+"The base of the group is taken at the base of the Fife Ness Formation in Fife, at the base of the Gullane Formation in the Lothians and at the base of the Clyde Plateau Volcanic Formation in the central and western parts of the Midland Valley."
+The group represents a lithological change from the cornstone and cementstone-bearing strata of the Inverclyde Group to a seatrock and/or coal-bearing sequence in which volcanic rocks may be common.
+The top is defined by the base of the Clackmannan Group.
+"FIFE In Fife, the Strathclyde Group comprises the Fife Ness Formation, the Anstruther Formation, the Pittenweem Formation, the Sandy Craig Formation and the Pathhead Formation."
+These units were originally described by Forsyth and Chisholm -LRB- 1977 -RRB- and first called formations by Browne -LRB- 1986 -RRB-.
+"A similar range of lithologies is present in each formation, but the emphasis varies between one formation and the next."
+"The range of depositional environments is also similar throughout, with fluviatile, deltaic, lacustrine and marine deposits alternating, often in thin cycles."
+5.1 Fife Ness Formation Lithology : The Fife Ness Formation consists dominantly of off-white and reddish-brown or purplish-grey sandstone arranged in upward-fining cycles.
+Marine strata are absent.
+"Argillaceous beds are commonly poorly-bedded and seatearths are present, but there are no coal seams."
+"Bedded dolomite is rare and the associated non-marine faunas comprise ostracods, spirorbids and algal nodules."
+The formation is essentially fluvial and lacustrine in origin.
+Type section : The type sections are those on the Fife coast at Fluke Dub -LSB- NO 6228 1061 to NO 6205 1071 -RSB- and at Fife Ness -LSB- NO6328 1014 to NO 636 54 -RSB-.
+"Upper and lower boundaries : The conformable base of the Fife Ness Formation lies in a lithological transition and is taken above the highest bed of carbonate conglomerate in the Fluke Dub section of the ` Balcomie Formation  -LRB- now regarded as part of the Clyde Sandstone Formation, see above -RRB-."
+The top is faulted against the Anstruther Formation in the type section.
+"Thickness : The maximum thickness of the formation exceeds 230 min east Fife -LRB- Figure 2, column 19 -RRB- according to Forsyth and Chisholm -LRB- 1977, Table 1 -RRB-."
+"5.2 Anstruther Formation Lithology : The Anstruther Formation consists dominantly of mudstone, siltstone and sandstone in thin cycles."
+"Non-marine limestone and dolomite are also developed, usually as thin beds, some of which contain oncolites and stromatolites."
+Minor components include marine mudstone and siltstone and a few algal-rich oilshale beds.
+"Sandstone, generally off-white and fine - to medium-grained, is subordinate to the argillaceous rocks, but thick, upward-fining, multi-storey sandstones are locally developed."
+Thin beds of coal and ironstone are present.
+"The overall pattern of sedimentation is of upward-coarsening lakedelta cycles, with thinner upward-fining fluvial units erosively capping them."
+The marine faunas are usually restricted.
+"The abundant but restricted non-marine faunas are dominated by Naiadites obesus, with Paracarbonicola in the lower part of the formation."
+"The formation is distinguished from the Fife Ness Formation, below, by the lower proportion of sandstone in it, and from the overlying Pittenweem Formation by the relative paucity of its marine faunas."
+"Type section : Partial type sections in the Anstruther Formation occur on the Fife coast at Anstruther Wester -LSB- NO 5670 310 to NO5635 300 -RSB-, at Billow Ness -LSB- NO 5590 269 -RSB- and atCuniger Rock -LSB- NO 5598 265 to NO 5566 271 -RSB-."
+A good section was cored in the Anstruther Borehole -LSB- NO 56530350 -RSB- -LRB- BGS Reg.
+Upper and lower boundaries : The base of the Anstruther Formation is not known at 9 outcrop but would be taken at the lithological change from sandstone-dominated sequences of the underlying Fife Ness Formation into mudstone-rich cyclical deposits.
+The top is drawn at the base of the Cuniger Rock Marine Band.
+"Thickness : The maximum thickness of the formation exceeds 810 m -LRB- Figure 2, column 19 -RRB- according to Forsyth and Chisholm -LRB- 1977, Table 1 -RRB-."
+5.3 Pittenweem Formation Lithology : The Pittenweem Formation consists dominantly of mudstone and siltstone.
+Beds of non-marine limestone and dolomite are less common than in the Anstruther Formation.
+"Marine mudstone, siltstone and limestone occur as minor, but important, components."
+"A few algal-rich oil shale beds are also present.Generally fine to medium-grained sandstone is subordinate to the argillaceous rocks, but locally thick, upward-fining, multi-storey sandstones occur as well as thin beds of coal and ironstone."
+"The overall pattern of sedimentation is of upward-coarsening deltaic cycles, with thinner upward-fining fluvial units erosively capping them."
+"The marine faunas, which occur in thin ` marine bands' are usually diverse and sometimes abundant."
+The abundant but restricted non-marine faunas are dominated by the bivalve Naiadites obesus.
+"The formation is distinguished from those adjacent by the comparative diversity of the marine faunas, which probably all belong to the Macgregor Marine Bands -LRB- see below -RRB-."
+Type section : Type sections in the Pittenweem Formation occur on the shore near Pittenweem at Cuniger Rock -LRB- basal contact -RRB- -LSB- NO 5566 271 to NO 5510 249 -RSB- and from 700 m -LRB- top contact -RRB- to 830 m in the Kilconquhar Bore No. 79/1 -LSB- NO4845 305 -RSB- -LRB- BGS Ref.
+A good section of the full succession is also exposed on the shore at St Andrews -LSB- NO 506 173 to 513 169 -RSB-.
+"Upper and lower boundaries : The conformable base of the Pittenweem Formation lies in a transitional sequence, and is drawn at the base of the Cuniger Rock Marine Band."
+The top is at the top of the St Andrews Castle Marine Band.
+"Thickness : The maximum thickness of the formation is now known to be over 260 m in east Fife -LRB- Figure 2, column 19 -RRB- based on its development in the partial type sections -LRB- see above -RRB-."
+"Forsyth and Chisholm -LRB- 1977, Table 1 -RRB- only state that the formation is over 220 m thick."
+"5.4 Macgregor Marine Bands : The Macgregor Marine Bands were named by Wilson -LRB- 1974 -RRB- in the Lothians, but appear to be best developed in east Fife, where they are probably all found within the Pittenweem Formation."
+"At least 5 marine beds exist in the partial type sections of the formation -LRB- Table 3 -RRB- and comprise c. 6 % of its thickness, which here may be260 m. They represent the first fully marine incursions to affect east central Scotland in Carboniferous times -LRB- seeWilson, 1989, Figure 7 -RRB-, and contain rich and distinctive faunas."
+"Whilst the faunas are largely facies controlled -LRB- Chisholm et al., 1989 ; Wilson, 1974, Figure 3 -RRB-, all the major fossil groups except trilobites are represented.Corals are scarce."
+"Punctospirifer sabricosta, Pteronitesangustatus and Streblopteria redesdalensis are thought to be diagnostic of the Macgregor Marine Bands -LRB- seeWilson, 1974 ; 1989 -RRB-."
+"Correlation : The Macgregor Marine Bands are recognisable as a group but no single marine bed can be correlated over an appreciable distance with confidence -LRB- Wilson, 1974 -RRB-."
+"The strata including the Macgregor Marine Bands show a large degree of lateral variation, and hence it can not be confirmed that the marine band at the base of the Aberlady Formation in the Spilmersford Borehole is thesame as that in the Skateraw Borehole or the Cove shore section."
+"However, on the basis of macrofaunal and miospore evidence, Wilson -LRB- 1974, p. 42 -RRB- correlated the Macgregor Marine Bands in the Spilmersford Borehole -LRB- as a group in the basal 47 m of what is now the Aberlady Formation -RRB- with the Cove marine bands at Cove Harbour, Thornton Burn and the BGS Borehole at Skateraw, and with the Lamberton Limestone of the Burnmouth district."
+"The Lamberton Limestone was correlated with the Dun Limestone of Northumberland on general lithological grounds by Fowler -LRB- 1926 ; see also Greig, 1988, p. 42 -RRB-."
+5.5 Sandy Craig Formation Lithology : The Sandy Craig Formation is characterised by mudstone and siltstone with a minor percentage of algal-rich oil shale.
+"The Macgregor Marine Bands of the Pittenweem Formation, east Fife."
+"Thin beds of non-marine limestone and dolomite are also developed, some of which contain oncolites and stromatolites."
+"Multicoloured, mainly fine - to medium-grained sandstone is subordinate to the argillaceous rocks, but thick, upward-fining, multi-storey sandstones are locally developed."
+"Greenish grey clayrock and calcareous marl occur, as also do thin beds of coal and ironstone."
+Nodular beds of pedogenic limestone and dolomite -LRB- cornstone -RRB- are also present.
+"The overall pattern of sedimentation within the formation is of upward-coarsening deltaic cycles, with thinner upward-fining fluvial units erosively capping them."
+"Marine faunas are very rare, and are usually restricted, consisting in some cases only of the brachiopod Lingula."
+The abundant but restricted non-marine faunas are dominated by the bivalve Curvirimula.
+"The formation is distinguished from its neighbours by the relative rarity of marine beds, and by the local presence of cornstones."
+"Type sections : Partial type sections in the Sandy Craig Formation occur at Pittenweem Harbour -LSB- NO 5518 236 to NO 5452 238 -RSB-, nearby at Sandy Craig -LSB- NO 5453 215 to NO 5419 226 -RSB- and from 203 m to 700 m in the Kilconquhar Bore No."
+Upper and lower boundaries : The conformable base of the Sandy Craig Formation lies in a transitional sequence and is taken at the top of the St Andrews Castle Marine Band.
+"The top is now drawn at the base of the West Braes Marine Band -LRB- Browne 1986, Figure 2 -RRB-."
+"Thickness : The maximum thickness of the formation as now define dis about 670 m in east Fife -LRB- Figure 2, column 19 -RRB- according to Browne -LRB- 1986, Figure 2 -RRB-."
+"5.6 Pathhead Formation Lithology : The Pathhead Formation consists predominantly of mudstone and siltstone with beds of limestone and dolomite.Pale coloured, fine to medium-grained sandstone is subordinate to the argillaceous rocks."
+Thin beds of coal and ironstone also occur.
+"The overall pattern of sedimentation within the formation is of upward-coarsening deltaic cycles, with thinner upward-fining fluvial units erosively capping them."
+Marine bands are more common than in the underlying formations and their faunas are usually diverse and abundant.
+The non-marine faunas are dominated by Curvirimula.
+Type section : The type section is on the coast at Pathhead -LSB- NO 54190226 to NO 5381 212 -RSB- between St Monans and Pittenweem.
+"Upper and lower boundaries : The conformable base of the Pathhead Formation lies in a transitional sequence, the boundary being drawn now at the base of the West Braes Marine Band."
+"This marker horizon is chosen as the base in preference to the lithological change from sandstone to mudstone, slightly lower in the sequence, which was originally used -LRB- Forsyth and Chisholm, 1977 -RRB-."
+The top is at the base of the Hurlet Limestone.
+"Thickness : The maximum thickness of the formation as now defined is about 220 m in east Fife -LRB- Figure 2, column 19 -RRB- according to Browne -LRB- 1986, Figure 2 -RRB-."
+"LOTHIANS In the Lothians, the Strathclyde Group consists of the Gullane Formation, overlain by the West Lothian Oil Shale Formation -LRB- in West Lothian, Midlothian and south Fife -RRB- or the Aberlady Formation -LRB- in East Lothian and Berwickshire -RRB-."
+Two volcanic formations are present ; the Arthur's Seat Volcanic Formation in Mid and West Lothian and the Garleton Hills Volcanic Formation in East Lothian.
+The formation names were established by Chisholm et al. -LRB- 1989 -RRB- to replace the earlier Oil Shale Group terminology -LRB- Table 1 -RRB-.
+"5.7 Arthur's Seat Volcanic Formation Lithology : The Arthur's Seat Volcanic Formation consists of lavas, tuffs and volcaniclastic sedimentary rocks produced by one short-lived episode of volcanic activity."
+The lavas are mildly alkaline and show a limited range of composition.The basic rocks are silica-undersaturated.
+They are macroporphyritic in the range ankaramite -- ol + cpx + pl-phyric basalt -- pl-phyric hawaiite -- mugearite.
+"The main outcrop is in Holyrood Park, Edinburgh with a faultedblock on Calton Hill."
+"The Craiglockhart Hills in Edinburgh may be a faulted outlier of the same rocks -LRB- Figure 2, column 9 -RRB-."
+"Volcanic rocks at Corston Hill, Torweaving Hill, Black Hill, Harperrig, Buteland Hill andCock Burn -LRB- Figure 2, column 8 -RRB- may belong to the same eruptive episode."
+"A borehole at D'Arcy in the Midlothian Coalfield -LRB- Figure 2, column 10 -RRB- may have proved an eastward extension of the formation."
+Other smaller separated outcrops are correlated with this formation.
+"The depositional environment was terrestrial, probably on a coastal plain."
+"Type section : The type area is in Holyrood Park, Edinburgh -LSB- NT 28 73 -RSB-, but the natural sections here are incomplete."
+"Upper and lower boundaries : The base of the formation is taken at the lithological change from underlying clastic sedimentary rocks to lavas, tuffs or volcaniclastic sedimentary rocks ; this, though, is nowhere exposed."
+"The top, a presumed transition to the sedimentary lithologies of the Gullane Formation, is likewise unexposed."
+"Thickness : The maximum thickness of the formation may be in excess of 300 m -LRB- Mitchell and Mykura, 1962, p. 43 -RRB-."
+"5.8 Garleton Hills Volcanic Formation Lithology : The Garleton Hills Volcanic Formation consists of lavas, tuffs and subordinate volcaniclastic sedimentary rocks produced by a single episode of volcanic activity."
+The lavas are mildly alkaline and show a limited range of composition.
+11 The basic rocks are hypersthene-normative.
+They are macroporphyritic in the range ankaramite -- ol + cpx + pl-phyricbasalt -- pl-phyric hawaiite -- mugearite -- trachyte.
+"The rocks crop out in a belt from North Berwick to Dirletonon the coast to the Dunbar-Gifford Fault east of Haddington with their main outcrop in the Garleton Hills -LRB- Table 1, East Lothian area -RRB-."
+"A further outcrop occurs between the Dunbar-Gifford Fault and the Lammermuir Fault, east of Gifford."
+"The formation has been proved under younger rocks as far west as Spilmersford, and may continue in that direction to join up with the Arthur 's Seat Volcanic Formation -LRB- Figure 2, columns 8and 11 -RRB-."
+"The depositional environment was terrestrial, probably on a coastal plain."
+"Type section : The type area is the Garleton Hills -LSB- NT 54 85 -RSB-, where there are many natural exposures."
+A section of a thinner development occurs from 287.27 to 554.19 m in the Spilmersford Borehole -LSB- NT 4570 6902 -RSB- -LRB- BGS Reg.
+No.NT 46 NE/73 -RRB- southwest of Haddington.
+"Upper and lower boundaries : The base of the formation is taken at the lithological change from underlying clastic sedimentary rocks to lavas, tuffs or volcaniclastic sedimentary rocks."
+"This is gradational and is drawn where volcanic rocks predominate over sedimentary, as in the Spilmersford Borehole -LRB- BGS Reg."
+NT 46 NE/73 -RRB- at 554.19 m and in the East Linton Borehole -LSB- NT 5966 7709 -RSB- -LRB- BGS Reg.No.
+"NT 57 NE/2 -RRB- at 104.22 m. The top is gradational to the Gullane Formation, as in the Spilmersford Borehole."
+"Thickness : The maximum thickness of the formation may be about380 m -LRB- McAdam and Tulloch, 1985, Figure 18 -RRB-."
+"5.9 Gullane Formation Lithology : The Gullane Formation consists of a cyclical sequence predominantly of pale coloured, fine - to coarse-grained sandstone interbedded with grey mudstone and siltstone."
+"Subordinate lithologies are coal, seatrock, ostracod-rich limestone/dolomite, sideritic ironstone and rarely, marine beds with only restricted faunas."
+"The depositional environment was predominantly fluviodeltaic, into lakes that only occasionally became marine."
+Type section : The type section is from 155.44 to 287.27 m in the Spilmersford Borehole -LSB- NT 4570 6902 -RSB- -LRB- BGS Reg.
+No.NT 46 NE/73 -RRB-.
+Other sections are recorded from 47.93 to197 0.94 m in the Birnieknowes Borehole -LSB- NT 7580 7317 -RSB- -LRB- BGS Reg.
+"NT 77 SE/9 -RRB- and on the coast at Cove -LRB- Figure 2, column 12 -RRB- near Cockburnspath -LSB- NT 79 71 -RSB- in the Oldhamstocks Basin -LRB- Lagios, 1983 ; Andrews and Nabi, 1996 -RRB-."
+"Upper and lower boundaries : The base of the formation is taken at the top of the Garleton Hills or Arthur's Seat volcanic formations, where present, or at the lowest coal or carbonaceous or rooty beds where volcanic rocks are absent."
+"The top is drawn at the base of the Macgregor Marine Bands -LRB- Wilson, 1989 -RRB-."
+"Thickness : The estimated maximum thickness of the formation is about 560 m in West Lothian -LRB- Figure 2, column 8 ; Mitchell and Mykura, 1962, Figure 9 -RRB-."
+5.1 Aberlady Formation Lithology : The Aberlady Formation consists of a cyclical sequence predominantly of pale coloured sandstone interbedded with grey siltstone and grey mudstone.
+"Subordinate but common lithologies are coal, seatrock, ostracod-rich limestone/dolomite and sideritic ironstone, and marine bands orbioclastic limestones with relatively rich and diverse faunas."
+The last-named feature distinguishes the unit from the Gullane Formation.
+"The depositional environment was fluviodeltaic, into lakes and marine embayments."
+"Type section : The type section of the Aberlady Formation -LRB- Figure 2, column 11 -RRB- is from 21.64 to 155.44 m in the Spilmersford Borehole -LSB- NT 4570 6902 -RSB- -LRB- BGS Reg."
+Other characteristic sections occur from 28.88 to 168.1 min the Skateraw Borehole -LSB- NT 7373 7546 -RSB- -LRB- BGS Reg.
+"No.NT 77 NW/47 -RRB- and -LRB- partially -RRB- on the coast at Cove -LSB- NT 78 71 -RSB- in the Oldhamstocks Basin -LRB- Figure 2, column 12 -RRB- and at Kilspindie -LSB- NT 46 80 -RSB- by Aberlady Bay."
+Upper and lower boundaries : The base lies in a transitional sequence and is taken at the base of the lowest of the Macgregor Marine Bands.
+"The formation is laterally equivalent to and has a laterally transitional boundary with the West Lothian Oil Shale Formation to the west, being distinguished from it chiefly by the rarity of oil shales."
+The top is drawn at the base of the Hurlet Limestone.
+"Thickness : The maximum thickness of the formation is about 140 m -LRB- Chisholm et al., 1989, section 4.4 -RRB-."
+5.11 West Lothian Oil Shale Formation Lithology : The West Lothian Oil Shale Formation is characterised by seams of oil shale in a cyclical sequence predominantly of pale coloured sandstones interbedded with grey siltstones and mudstones.
+"Subordinate lithologies are coal, ostracod-rich limestone/dolomite, sideritic ironstone and marine beds, including bioclastic limestones with rich and relatively diverse faunas."
+"Thick, pale green-grey or grey argillaceous beds containing derived volcanic detrital ` marl ' are present."
+"The environment of deposition was similar to that of the Aberlady Formation, but with oilshales formed in large freshwater lagoons, rich in algae and other organic matter."
+"Type section : The type area is West Lothian, where a composite section of the formation has been built up from numerous boreholes drilled to prove the oil shale seams."
+"The base is well exposed in the Water of Leith near Redhall in Edinburgh -LRB- Figure 2, column 9 -RRB- -LRB- Chisholm and Brand,1994, p. 100, localities 1 -- 4 -RRB-, and partly exposed sections inmost parts of the formation can be seen on the coast from South Queensferry to Blackness -LSB- NT 1378 to NT 580 -RSB-."
+"12 Upper and lower boundaries : The base of the formation is taken at the base of the Humbie Marine Band, the local equivalent of the lowest of the Macgregor Marine Bands."
+"The formation is laterally equivalent to the Aberlady Formation to the east, and to part of the Bathgate Hills and Burntisland volcanic formations to the west and north."
+The top is drawn at the base of the Hurlet Limestone.
+"Thickness : The maximum thickness of the formation is in excess of 1120 m in west Lothian -LRB- Figure 2, column 8 ; Chisholm et al., 1989, section 4.5 -RRB-."
+"WESTERN AREAS In most of the western part of the Midland Valley, the Strathclyde Group comprises the Clyde Plateau Volcanic Formation, the Kirkwood Formation and the Lawmuir Formation -LRB- Paterson and Hall, 1986 -RRB-."
+"However, the ClydePlateau Volcanic Formation is locally underlain by the Birgidale Formation on Bute, and by the Laggan Cottage Mudstone Formation on Arran."
+"5.12 Birgidale Formation Lithology : The Birgidale Formation consists of cyclically deposited grey mudstones, quartz pebble-bearing sandstones and seatearths with coal seams."
+"The depositional environment was fluviodeltaic, mainly river channel and floodplains."
+Type section : The type section is from 32.8 m to 54.1 m in the Birgidale Knock Borehole -LSB- NS 158 5935 -RSB- -LRB- BGS Reg.
+"NS 05NE/2 -RRB-, the type area being in south Bute."
+"Upper and lower boundaries : The base of the formation is sharp, probably erosional, on the Clyde Sandstone Formation."
+The top is overlain by the Clyde Plateau Volcanic Formation.
+"Thickness : The formation is about 16 m thick according to Paterson and Hall -LRB- 1986, p. 13 -RRB-."
+5.13 Laggan Cottage Mudstone Formation Lithology : The Laggan Cottage Mudstone Formation consists of grey carbonaceous mudstone with subordinate sandstones.
+Plant remains occur but no coal seams are developed.
+"The depositional environment was fluviodeltaic, mainly floodplain or lacustrine."
+"Type section : The type area is in the neighbourhood of Laggan Cottage, north-east Arran -LSB- NR 986 501 -RSB-."
+Upper and lower boundaries : The base of the formation is taken at the top of white sandstones forming the Millstone Point Sandstones -LSB- NR 9887 5013 -RSB- of the Clyde Sandstone Formation.
+The formation is overlain by lavas and tuffs of the Clyde Plateau Volcanic Formation -LSB- NR 9855 5035 -RSB-.
+"Thickness : The formation is about 7 m thick according to Paterson andHall -LRB- 1986, p. 14 -RRB-."
+"5.14 Clyde Plateau Volcanic Formation Lithology : The Clyde Plateau Volcanic Formation consists of lavas, tuffs and volcaniclastic sedimentary rocks which were produced by one major episode of subaerial volcanic activity."
+The lavas are mildly alkaline and show a wide range in composition.
+The basic rocks are mostly hypersthene-normative with a few being silica-undersaturated nepheline-normative.
+The more fractionated rocks are all hypersthene-quartz-normative in composition.
+The range in rock type is ankaramite -- ol + cpx + pl-phyric basal pl-phyrichawaiite -- mugearite -- benmoreite -- trachyte -- rhyolite.
+Benmoreite is rare and the end members of the range are uncommon.
+"In the north-western part of the Midland Valley, the Kilpatrick -- Campsie -- Gargunnock blocks, the sequence is dominated by pl-phyric hawaiites, pl-phyric basalts are less abundant and cpx-phyric types are uncommon."
+"In the south-western part of the MidlandValley, Renfrew Hills and Lanark blocks, macroporphyritic ol + cpx-basalts and microporphyritic hawaiites are uncommon."
+Name : The name was introduced by Monro -LRB- 1982 -RRB- to replace earlier terms such as Clyde Plateau Lavas.
+Type section : The type sections of the Clyde Plateau Volcanic Formation are in the Campsie Glen -LSB- NS 6098 8001 -RSB- where the local base exceptionally is in sharp contact with the underlying Ballagan Formation -LRB- rather than the Clyde Sandstone Formation -RRB- and in the Lawmuir Borehole -LSB- NS 5183 7310 -RSB- -LRB- BGS Reg.
+"NS 57 SW/162 -RRB-, west of Bearsden in Glasgow, where the top occurs at a depth of281 0.12 m."
+"Upper and lower boundaries : The base of the formation is taken at the lithological change from the underlying clastic sedimentary rocks into lavas, tuffs or volcaniclastic sedimentary rocks."
+"This contact is normally sharp, representing a gentle but irregular unconformity."
+The top is marked by a change to the volcaniclastic sedimentary rocks of the Kirkwood Formation.
+"Thickness : The maximum thickness of the formation exceeds 420 min the Campsie Fells -LRB- Forsyth et al., 1996, p. 9 -RRB- ; Paterson and Hall -LRB- 1986, p. 13 -RRB- suggest a figure as high as 800 m. 5.15 Kirkwood Formation Lithology : The Kirkwood Formation consists of tuffaceous mudstones and tuffs overlying the basaltic lavas of the Clyde PlateauVolcanic Formation."
+"The formation is locally intercalated with non-tuffaceous sedimentary rocks, sometimes with marine horizons developed."
+The tuffaceous mudstones and tuffs vary in colour from dark reddish brown to greenish grey.
+"Non-tuffaceous sedimentary rocks, sandstones, 13 siltstones and limestones, generally grey in colour, also occur within a restricted area intercalated with volcaniclastic rocks."
+These strata were largely formed by the reworking of materials derived from the underlying volcanic rocks but some direct air-fall tuffs may be present.
+"The Kirkwood Formation shows extensive subaerial weathering and lateritisation, the products of a period of intense tropical weathering."
+Name : The name was introduced by Monro -LRB- 1982 -RRB-.
+Type section : The type section of the Kirkwood Formation occurs between 39.77 m and 75.3 m in the Kirkwood Borehole -LSB- NS 38854716 -RSB- -LRB- BGS Reg.
+Upper and lower boundaries : The base of the formation is taken at the lithological change from the underlying lavas of the Clyde Plateau Volcanic Formation into volcaniclastic sedimentary rocks.The top is generally a transition to the clastic sedimentary rocks of the Lawmuir Formation.
+"Thickness : The maximum thickness of the formation is about 36 m in Ayrshire -LRB- Paterson and Hall, 1986, p. 13 -RRB-."
+"5.16 Lawmuir Formation Lithology : The Lawmuir Formation consists of a sequence of mudstones, siltstones and sandstones with seatrocks, coals and limestones."
+"In the north of Glasgow around Milngavie, the lower part of the formation is dominated by fluvial sandstones with a local development of quartz conglomerate."
+"In the south of Glasgow around Paisley -LRB- Figure 2, column14 -RRB-, fluvial sandstones are interbedded with thick, poorly bedded siltstones and mudstones with a few thin coals."
+In one small area these coals coalesce to form a single seam 20 m thick.
+"The upper part of the formation is partly arranged in cyclothems, with several marine incursions represented by marine limestones over a large area."
+A non-marine limestone -LRB- Baldernock Limestone -RRB- also occurs near the top of the sequence.
+Name : The name was introduced by Paterson and Hall -LRB- 1986 -RRB-.
+Type section : The type section of the Lawmuir Formation is between 11.75 m and 266.2 m in the Lawmuir Borehole -LSB- NS 51837310 -RSB- -LRB- BGS Reg.
+NS 57 SW/162 -RRB- west of Bearsdennear Glasgow.
+Upper and lower boundaries : The base of the formation is taken at the lithological change from the underlying volcaniclastic strata of the Kirkwood Formation into clastic sedimentary rocks.
+"The boundary is often transitional, with interdigitation between sedimentary and volcaniclastic rocks."
+The top is drawn at the base of the Hurlet Limestone.
+The precise relationship between the Lawmuir Formation and the Pathhead Formation in Fife is not known because of a major geographical gap in information between the two areas.
+"It is possible that the marine bands in the upper part of the Lawmuir Formation are equivalent to all the marine bands in the Pathhead Formation, in which case the non-marine lower part of the Lawmuir Formation would be equivalent to the Sandy Craig Formation in Fife."
+"Thickness : The maximum thickness of the formation is about 300 m in the Glasgow area -LRB- Figure 2, column 14 -RRB-."
+"6 BATHGATE GROUP The Bathgate Group is a newly defined lithostratigraphical unit comprising the Salsburgh Volcanic Formation, the Kinghorn Volcanic Formation and the Bathgate Hills Volcanic Formation."
+These formations are generally characterised by olivine-rich microporphyritic basalts ofDalmeny and Hillhouse types with some macroporphyriticolivine-basalts of Craiglockhart and Dunsapie types.
+Bedded tuffs and volcanic detritus also occur.
+"The base of the group is taken at an upward transition from sedimentary rocks in most areas, but is drawn at the top of the Clyde Plateau Volcanic Formation in the Rashiehill Borehole -LSB- NS 8386 7301 -RSB- -LRB- BGS Reg."
+"No.NS 87 SW/22 -RRB-, west of Slamannan, and at a supposed unconformity in Salsburgh No. 1A oil well -LSB- NS 8166 6487 -RSB- -LRB- BGS Reg."
+The top is taken at the top of the highest known lava interdigitated in the Passage Formation in the Central Coalfield area.
+"The group is of limited geographical extent -LRB- Falkirk, Fife, Lanarkshire, West Lothian -RRB- but interdigitates with a large thickness of sedimentary formations, including the upper part of the Strathclyde Group and the larger part of the Clackmannan Group."
+"The volcanic formations are separated from one another by the sedimentary rocks, but their petrographical similarity and restricted geographical extent justify their treatment as a single group."
+6.1 Salsburgh Volcanic Formation Lithology : The newly named Salsburgh Volcanic Formation consists of greenish grey tuffs and highly altered basaltic lavas interbedded with strata of the West Lothian Oil-Shale Formation.
+Nothing is known of the chemistry of these rocks or their petrographic characteristics.
+The formation is only known from the Salsburgh No. 1A oil well -LSB- NS 81666487 -RSB- -LRB- BGS Reg.
+NS 86 SW/89 -RRB- northwest of Shotts.
+"Type section : The type section is from 1114.65 m to 1216.15 m in this well -LRB- Figure 2, column 6 -RRB-, where the base of the formation is unconformable on supposed Lower Devonian rocks, and the top is a transition into sedimentary strata."
+"Thickness : The maximum thickness of the formation is about 102 m. 6.2 Bathgate Hills Volcanic Formation Lithology : The Bathgate Hills Volcanic Formation consists of lavas, tuffs and volcaniclastic sedimentary rocks produced by along-lived series of episodes of volcanic activity."
+"The lavas are mostly relatively primitive, silica-undersaturated rocks with a restricted range of composition."
+The basic rocks are commonly nepheline-normative basanites.
+The lavas are mostly ankaramites and microporphyritic ol + cpx-phyricbasalts with rare micro-porphyritic hawaiites.
+"The depositional environment was mainly terrestrial, at times into water, at times into hot springs."
+The volcanic rocks interdigitate and interact with clastic sedimentary rocks of various formations.
+Weathered ferruginous palaeosols -LRB- redboles -RRB- are developed.
+"The main outcrop is in the BathgateHills, West Lothian where the rocks crop out in a belt from Bathgate to Boness on the coast."","
+"The formation has been proved under younger rocks as far west as Rashiehill -LRB- Figure 2, column 5 -RRB-, where it directly overlies the Clyde Plateau Volcanic Formation."
+"Name : The name was first used by Smith et al. -LRB- 1994 -RRB- to replace earlier terms such as ` Bathgate lavas ', and is now formally defined here."
+Type section : The type area is the natural exposures in the Bathgate Hills -LSB- NS 98 75 -RSB-.
+"A good section 318.8 m thick, in which 26lava flows interdigitate with clastic sedimentary rocks, is in the Rashiehill Borehole -LSB- NS 8386 7301 -RSB- -LRB- BGS Reg."
+"No.NS 87 SW/22 -RRB- from 791.6 m to 1110.4 m. Upper and lower boundaries : The base of the formation is taken at the lithological change from underlying clastic sedimentary rocks, to lavas, tuffs or volcaniclastic sediments or at an upward change from the petrologically wider range of volcanic rocks that form the Clyde Plateau Volcanic Formation."
+In the former case the boundary is gradational and is taken where volcanic rocks predominate over sedimentary.
+The top is likewise gradational.
+"The formation is laterally equivalent to, and interdigitates with, the West Lothian Oil Shale, Lower Limestone, Limestone Coal, Upper Limestone and Passage formations."
+Thickness : The maximum thickness recorded for the formation is about 319 m -LRB- see above -RRB-.
+"6.3 Kinghorn Volcanic Formation Lithology : The newly named Kinghorn Volcanic Formation consists of basaltic lava flows, mainly of subaerial origin but locally subaqueous with pillows and hyaloclastic textures."
+Volcaniclastic sedimentary rocks with subordinate tuffs also occur.
+The lavas are dominantly ol - and ol - cpx-phyricwith rare ol-cpx-pl-phyric basalts.
+They are mostly microporphyritic but some macroporphyritic varieties also occur.
+The limited analyses available suggest that the lavasare mostly hypersthene-normative.
+Name : The name is introduced here to replace earlier informal names such as ` Burntisland lavas' .
+Type section : The type section is on the Fife coast between Kinghorn and Kirkcaldy -LSB- NT 254 863 to NT 278 882 -RSB-.
+"In this area, the Kinghorn Volcanic Formation is known to interdigitate with sedimentary strata of the Pathhead and Sandy Craig formations -LRB- Figure 2, column 18 -RRB-."
+Upper and lower boundaries : The base and top of the formation are usually transitional to sedimentary units belonging to the Strathclyde Group and possibly the basal part of the Clackmannan Group.
+Thickness : The maximum thickness of the formation is over 422 m in Seafield No 1 Shaft -LSB- NT 2769 8953 -RSB- -LRB- BGS Reg.
+NT28 NE/35 -RRB- just south of Kirkcaldy.
+"7 CLACKMANNAN GROUP The name Clackmannan Group was first used in the Airdrie district by Hall -LRB- BGS, 1992 -RRB- and Forsyth et al. -LRB- 1996 -RRB-, to include the Lower Limestone Formation, the LimestoneCoal Formation, the Upper Limestone Formation and the Passage Formation."
+"These formations are characterised by strongly cyclical sequences of sandstone, siltstone, mudstone, limestone, coal and seatearth, the proportions differing in each of the formations."
+"Thus, beds of limestone are more conspicuous in the Lower and Upper Limestone formations than elsewhere, coals are most common in the Limestone Coal Formation, and sandstones and seatearths are the most prominent constituents of the Passage Formation."
+"Depositional environments, likewise, show an underlying similarity, being related to the repeated advance and retreat of fluviodeltaic systems into an embayment of varying salinity."
+"The Lower and Upper Limestone formations contain the highest proportion of marine deposits, while the Passage Formation is dominated by alluvial deposits ; the Limestone Coal Formation occupies an intermediate position."
+"The base of the Clackmannan Group is taken at the base of the Lower Limestone Formation, where a cyclical sequence of marine limestone-bearing strata rests conformably on various formations of the Strathclyde Group -LRB- Table 1 -RRB-."
+The top is defined by the base of the Coal Measures.
+"This group is mostly Namurian in age, but ranges from late Visean to early Langsettian."
+"7.1 Lower Limestone Formation Lithology : The Lower Limestone Formation -LRB- Figure 3 -RRB- comprises repeated upward-coarsening cycles of limestone, mudstone, siltstone and sandstone."
+The cycles may be capped by thin beds of seatearth and coal.
+"The limestones, which are almost all marine and fossiliferous, are pale to dark grey in colour."
+The mudstones -LRB- many of which also contain marine fossils -RRB- and siltstones are predominantly grey to black.
+Nodular clayband ironstones and limestones are well developed in the mudstones.
+"The sandstones, which are usually fine - to medium-grained, are generally off-white to grey."
+"Except locally, coal seams are thin -LRB- 0.3 m -RRB- and few in number."
+Other minor lithologies include cannel and blackband ironstone.
+A few non-marine faunal beds are known.
+"Upward-fining parts of the succession, dominated by fine - to medium-grained sandstone but lacking limestone, also occur."
+"In the western part of the Midland Valley the sequence is condensed, the intervals between limestones being dominated by mudstone."
+"In Ayrshire the term Lugton Limestone Formation has been used -LRB- Paterson et al., 1990, Table 3 -RRB- but as this name is considered to be synonymous with Lower Limestone Formation, the latter name is now adopted throughout the Midland Valley."
+"Name : The formation was formerly known as the Lower Limestone Group ; the change to formation status -LRB- Forsyth et al., 1996 -RRB- involves no change to the boundary definitions."
+Type section : The type section is from 81.98 m to 292.51 m in the Wester Gartshore Colliery Underground Borehole -LSB- NS 6824 7239 -RSB- -LRB- BGS Reg.
+"NS 67 SE/99 -RRB- at Kirkintilloch northwest of Airdrie -LRB- Figure 3, column 4 -RRB-."
+Upper and lower boundaries : The base of the formation is taken at the base of the Hurlet Limestone and the top is drawn at the top of the Top Hosie Limestone -LRB- or their local correlatives ; Figure 3 -RRB-.
+"Thickness : The maximum thickness of the formation is about 240 m in the Lathallan-Radernie area of east Fife -LRB- Forsyth and Chisholm, 1977, p. 60 -RRB-."
+"Table 4 is a proposed rationalisation of the principal named horizons across the Midland Valley of Scotland, using the Glasgow nomenclature as the standard -LRB- based onWilson, 1989 -RRB-."
+"7.2 Limestone Coal Formation Lithology : The Limestone Coal Formation -LRB- Figure 4 -RRB- comprises sandstone, siltstone and mudstone in repeated cycles."
+"The majority coarsen upwards, but some fine upwards."
+The cycles are usually capped by seatearth and coal.
+"The siltstone and mudstone are usually grey to black, while the sandstone is usually fine - to medium-grained and off-white to grey."
+Coal seams are common and many exceed 0.3 min thickness.
+"Minor lithologies include cannel, and blackband and clayband ironstone, the latter nodular as well as bedded."
+Non-marine limestone is rare.
+"Beds containing large numbers of shells -LRB- coquinas -RRB- of Lingula or of the non-marine bivalves Naiadites and Curvirimula occur in the fine grained rocks, including ironstones and cannel."
+"Because of the form of preservation, these shells usually do not form conspicuous musselbands like those of the Coal Measures."
+"Marine shells are present in some fine-grained strata but marine limestones are not a feature, being present only locally towards the bottom of the formation."
+"Upward-fining parts of the succession, dominated by fine to locally coarse-grained sandstone, are widely developed, and thick multi-storey sandstones are present."
+"Locally, successions may be particularly sandy or argillaceous."
+"The Johnstone Shell Bed and Black Metals Marine Bands can be correlated throughout the Midland Valley, but the coal seams are not so easily correlated and retain their local names."
+In Ayrshire the terms Dalry Sandstone and Kilbirnie Mudstone formations have been used.
+"These names were introduced in the Greenock district -LRB- Paterson et al., 1990, Table 3 -RRB- as formations within the Limestone Coal Group."
+"The Dalry Sandstone Formation is now considered to be a redundant term synonymous with Limestone Coal Formation, and the Kilbirnie Mudstone Member lies within this."
+"Name : The formation was formerly called Limestone Coal Group : the change affects the status of the unit but its boundaries remain the same -LRB- Forsyth et al., 1996 -RRB-."
+Type section : Type sections are represented by two boreholes in northeast Glasgow ; the upper part of the formation from316 m to 539.5 m in the Cardowan No 2 Borehole -LSB- NS 6706 6752 -RSB- -LRB- BGS Reg.
+NS 66 NE/66 -RRB- and the lower part from 0 m to 106.7 m in the Cardowan No 13 Borehole -LSB- NS 6706 6875 -RSB- -LRB- BGS Reg.
+NS 66 NE/104 -RRB-.
+"Upper and lower boundaries : The base of the formation is taken at the top of the Top Hosie Limestone, and the top is drawn at the base of the Index Limestone."
+"Thickness : The maximum thickness of the formation is in excess of550 m in the Clackmannan area of the Central Coalfield -LRB- Browne et al., 1985, p. 11 -RRB-."
+"7.3 Upper Limestone Formation Lithology : The Upper Limestone Formation -LRB- Figure 5 -RRB- is characterised by repeated upward-coarsening cycles comprising grey limestone overlain by grey to black mudstones and calcareous mudstones, siltstones and paler sandstones capped by seatrocks and coal."
+The limestones contain marine faunas and are usually argillaceous.
+The sandstones are generally off-white and fine - to medium-grained.
+The coals are usually less than 0.6 m thick.
+Minor lithologies present include ironstone and cannel.
+Upward-fining sequences of coarse to fine-grained sandstones passing up into finer-grained rocks are also present.
+"In Ayrshire the term Caaf Water Limestone Formation has been used on published 1:10 0 maps dating between 1988 and 1992, but as this is synonymous with Upper Limestone Formation the latter name is now adopted throughout the Midland Valley."
+Standard names for the individual limestone beds can be used thoughout the region -LRB- Figure 5 -RRB-.
+"Name : The name replaces the term Upper Limestone Group, but the boundary definitions are unaffected -LRB- Forsyth et al., 1996 -RRB-."
+Type section : The type section of the Upper Limestone Formation is the Mossneuk Borehole -LSB- NS 8723 8609 -RSB- -LRB- BGS Reg.
+"NS88 NE/204 -RRB-, south of Alloa, between 335 and 770.3 metres depth -LRB- Figure 5, column 6 -RRB-."
+"Upper and lower boundaries : The base of the formation is taken at the base of the Index Limestone or, locally, at a plane of disconformity."
+The top is drawn at the top of the Castlecary Limestone.
+"Thickness : The maximum thickness of the formation is over 600 m in the Clackmannan area of the Central Coalfield -LRB- Browne etal., 1985, p. 11 -RRB-."
+"7.4 Passage Formation Lithology : The Passage Formation -LRB- Figure 6 -RRB- is characterised by an alternation of fine - to coarse-grained sandstones -LRB- with some conglomerates -RRB- and structureless clayrocks -LRB- including some high-alumina seatclay, fireclay and bauxitic clay -RRB-."
+The clayrocks are commonly mottled reddish brown and greenish grey.
+Upward-fining cycles predominate over upward-coarsening cycles.
+"Bedded greyand black siltstones and mudstones are also present, and beds of limestone, ironstone, cannel and coal."
+"Marine 17 faunas, diverse and closely spaced at the base, become progressively impoverished upwards."
+"In Ayrshire the terms Monkcastle Sandstone, Troon Volcanic and AyrshireBauxitic Clay formations have been used."
+The Ayrshire Bauxitic Clay Formation was introduced in the Irvine district by Monro -LRB- 1982 -RRB-.
+The Monkcastle Sandstone and Troon Volcanic formations were introduced in published 1:10 0 maps dating between 1988 and 1992.
+"The Monkcastle Sandstone Formation is now considered to be synonymous with Passage Formation, so the latter name is now adopted throughout the Midland Valley."
+The Troon Volcanic and Ayrshire Bauxitic Clay formations are reduced to members of the Passage Formation.
+"Name : The name replaces the term Passage Group, but the boundary definitions are unchanged -LRB- Forsyth et al., 1996 -RRB-."
+Type section : The type section of the Passage Formation occurs between 48.95 m and 368.15 m in the Saltgreen No. 1 Borehole -LSB- NS9196 8608 -RSB- -LRB- BGS Ref.
+"NS 98 NW/197 -RRB- south of Clackmannan -LRB- Figure 6, column 6 -RRB-."
+Upper and lower boundaries : The base of the formation is taken at the top of the Castlecary Limestone or at a plane of disconformity where the base is erosive.
+The top is drawn at the base of the Lowstone Marine Band or a correlative.
+"Thickness : The maximum thickness of the formation is about 380 m in the Clackmannan area of the Central Coalfield -LRB- Browne et al., 1985, p. 10 -RRB-."
+"8 COAL MEASURES The Coal Measures -LRB- Figure 7 -RRB- are now regarded as a lithostratigraphical group -LRB- Forsyth et al., 1996 -RRB-."
+"It comprises repeated cycles of sandstone, siltstone and mudstone with coal and seatearth, arranged in bothupward-fining and upward-coarsening units."
+The strata are generally grey in colour but are extensively reddened towards the top.
+A wide range of alluvial and lacustrine environments of deposition is represented.
+"These include wetland forest and soils -LRB- coal and seatrock -RRB-, floodplain -LRB- planty or rooted siltstone and mudstone -RRB-, river and delta distributary channel -LRB- thick sandstones -RRB-, prograding deltas -LRB- upward-coarsening sequences -RRB- and shallow lakes -LRB- mudstones with non-marine faunas -RRB-."
+Marine bands are rare but provide important stratigraphical markers.
+"In Scotland the base of the Coal Measures is now taken at the base of the Lowstone Marine Band, its local correlative, or at a plane of disconformity."
+"Present practice therefore differs in detail from that adopted by MacGregor -LRB- 1960 -RRB-, but the base of the group is still drawn at a slightly higher stratigraphical level than in England and Wales, where it lies at the base of the Subcrenatum Marine Band, and so at the base of the Langsettian -LRB- Westphalian A -RRB- Stage."
+This horizon has not been recognised in Scotland though it may correlate with one of the higher marine bands of the Passage Formation -LRB- No. 6 -RRB- and with the Porteous Marine Band of the Douglas Coalfield.
+"Lower, Middle and Upper divisions recognised in the older classification are retained and regarded now as informal formations."
+"The boundary between Lower and Middle Coal Measures is drawn at the Vanderbeckei Marine Band, and that between Middle and Upper Coal Measures at the Aegiranum Marine Band."
+The latter boundary thus lies at a lower level in the sequence than the Middle / Upper Coal Measures boundary in England and Wales.
+"8.1 Lower Coal Measures Lithology : The Lower Coal Measures comprise sandstone, siltstone and mudstone in repeated cycles which most commonly coarsen upwards, but also fine upwards, with seatearth and coal at the top."
+"The mudstone and siltstone are usually grey to black, while the sandstone is fine - to medium-grained and off-white to grey in colour."
+Coal seams are common and many exceed 0.3 m in thickness.
+"Minor lithologies include cannel and blackband and clayband ironstone, the latter nodular as well as bedded."
+"Bands composed mainly of non-marine bivalves, the characteristic ` musselbands', usually occur in mudstone or ironstone."","
+"Upward-fining parts of the succession, dominated by fine to coarse-grained sandstone, are widely developed and thick multi-storey sandstones are a feature."
+"Type section : The type section of the Lower Coal Measures is between 187.5 m and 301.19 m in the Clyde Bridge, Motherwell Borehole -LSB- NS 7380 5622 -RSB- -LRB- BGS Reg."
+"NS 75 NW/68 -RRB- in the west Central Coalfield -LRB- Figure 7, column 4 -RRB-."
+Upper and lower boundaries : The base of the Lower Coal Measures is the same as the base of the Coal Measures -LRB- see above -RRB-.
+The top lies at the base of the Vanderbeckei Marine Band.
+Thickness : The maximum thickness of the formation is about 220 m to240 m in the Sealab No. 2 Borehole -LSB- NT 3272 8449 -RSB- -LRB- BGSReg.
+NT 38 SW/1 -RRB- in the Firth of Forth.
+The variation in thickness is a function of correction for a stratal dip ranging between 35 and 40 ?E -LRB- uncorrected thickness about 288 m -RRB-.
+8.2 Middle Coal Measures Lithology : The Middle Coal Measures are made up of similar lithologies to the Lower Coal Measures.
+"Type section : The type section of the top part of the Middle Coal Measures -LRB- from Skipsey 's Marine Band to the Drumpark Marine Band -RRB- is from 9.5 m to 26 m in the Dalzell Works, Motherwell Bore No."
+"NS 75 NE/316 -RRB- and for the lower part -LRB- from the Drumpark Marine Band to the Queenslie Marine Band -RRB- is from 18.29 m to 187.5 m in the Clyde Bridge, Motherwell Borehole -LSB- NS 7380 5622 -RSB- -LRB- BGSReg."
+NS 75 NW/68 -RRB-.
+A section containing a full development of the Vanderbeckei Marine Band is present from 15.24 m to 37.49 m in the Moffat Mills Water Bore -LSB- NS 7898 6499 -RSB- -LRB- BGS Ref.
+NS 76 SE/77A -RRB- east of Airdrie.
+"All three of these sections are in the west Central Coalfield -LRB- Figure 7, column 4 -RRB-."
+Upper and lower boundaries : The base of the Middle Coal Measures is taken at the base of the Vanderbeckei Marine Band or its local equivalent.
+"Where this horizon can not be established, the closest approximation based on non-marine bivalve faunas 18 is taken."
+In North Ayrshire this is the top of the Shale Coal.
+The top of the Middle Coal Measures is drawn at the base of the Aegiranum Marine Band.
+Thickness : The maximum thickness of the formation is about 350 m based on the dip-corrected section of the Sealab No. 1A Borehole -LSB- NT 3230 8568 -RSB- -LRB- BGS Reg.
+NT 38 NW/31 -RRB- in the Firth of Forth and on the exposures on the Fife coast between East Wemyss and Buckhaven.
+"8.3 Upper Coal Measures Lithology : The Upper Coal Measures comprise sandstone, siltstone and mudstone in repeated cycles which most commonly fine upwards."
+The mudstone occurs most commonly as structureless beds and seatearth.
+"The sequences are usually reddish brown and purplish grey in colour due to oxidation of originally grey strata beneath the Permian unconformity, but some reddening may be primary, related to periods of lowered water table during deposition."
+"Coal seams are not common, are normally less than 0.3 m thick and may be replaced, totally or in part, by red -LRB- haematitic -RRB- and darkgrey carbonaceous diagenetic limestone."
+Brecciation textures may occur and nodular pedogenic carbonate is present in some clay/silt grade rocks in Fife.
+Type sections : The partial type section of the Upper Coal Measures is from surface to 285 m in the Hallside Borehole -LSB- NS 66935974 -RSB- -LRB- BGS Reg.
+"NS 65 NE/66 -RRB- southeast of Glasgow in the west Central Coalfield -LRB- Figure 7, column 4 -RRB-."
+"Upper and lower boundaries : The base of the formation was formerly taken at the top of the Aegiranum Marine Band -LRB- MacGregor,1960 -RRB- but is now drawn at the base of this bed -LRB- Forsyth et al., 1996 -RRB-."
+"In Fife and Lothian the Aegiranum Marine Band has recently been tentatively re-correlated with the ` Buckhaven Planolites Band'  which is a newly defined name -LRB- BGS, 1997 -RRB- and the Montague Bridge Marine Band that has been referred to by Tulloch and Walton -LRB- 1958, pp. 114 -- 115 -RRB-."
+"The top of the formation is eroded, at an unconformity of regional extent beneath Permian strata."
+Thickness : The maximum thickness of the formation probably exceeds 1200 m under the Firth of Forth based on the interpretation of commercial seismic data.
