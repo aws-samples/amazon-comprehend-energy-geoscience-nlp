@@ -43,7 +43,7 @@ The data must follow this specific format. You need three documents: Training te
 
 ## Walkthrough
 
-The code and support files are available [here](https://github.com/orgs/aws-samples/teams/global-sa-energy-nlp). You can also use this AWS CloudFormation template to create all the resources needed for this project in your account. Alternatively, you can download and unzip the dataset onto your computer from the *geosemantics_comprehend_blog_data.zip* file.
+The code and support files are available [here](https://github.com/orgs/aws-samples/teams/global-sa-energy-nlp). You can also use this AWS CloudFormation template to create all the resources needed for this project in your account. Alternatively, you can download and unzip the dataset onto your computer from the [amazon-comprehend-geoscience-nlp.zip](https://github.com/aws-samples/amazon-comprehend-energy-geoscience-nlp/blob/master/amazon-comprehend-geoscience-nlp.zip) file.
 
 In this example, we create a custom entity recognizer to extract information about geologic eras. To train a custom entity recognition model, choose one of two ways to provide data to Amazon Comprehend: [Annotations](https://docs.aws.amazon.com/comprehend/latest/dg/cer-annotation.html) or [Entity lists](https://docs.aws.amazon.com/comprehend/latest/dg/cer-entity-list.html). In this example, we use the entity list method. I removed variations of the name such as "Age", "Epoch", and "Eon."  BGS provides data segmented into training and test sets. These files plus the entity list must be uploaded to Amazon S3 and Comprehend must have permission to access the S3 bucket through a service-linked IAM role. 
 
