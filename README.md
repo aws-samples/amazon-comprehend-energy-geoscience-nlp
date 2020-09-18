@@ -122,8 +122,8 @@ training is complete with this code.
 ```python
 # Optional code to send a text message once the training is complete
 
-phone_number = "+14055551234" # number for the scientist. Must
-include the international code ("+1" for the US)
+# number for the scientist. Must include the international code ("+1" for the US)
+phone_number = "+14055551234" 
 
 # Create an SNS client
 sns = boto3.client("sns")
