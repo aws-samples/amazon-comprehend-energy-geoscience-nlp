@@ -54,10 +54,9 @@ import boto3
 import uuid
 
 comprehend = boto3.client("comprehend")
-role =
-"arn:aws:iam::141317253884:role/service-role/AmazonComprehendServiceRole-comprehend"
+role = <your/comprehend/role>
 
-bucket = "personalizelab-chicago"
+bucket = <your/s3/bucket>
 entity_types = "CHRONOSTRAT"
 train_documents = "bgs-geo-training-data.txt"
 test_documents = "bgs-geo-testing-data.txt"
